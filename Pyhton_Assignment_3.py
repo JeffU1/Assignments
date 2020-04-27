@@ -5,7 +5,7 @@ while True:
         summ = 0
        
         if number.isalpha():
-            print("Please enter a numeric character")
+            print("Do not use any entries other than numeric values")
         
         elif "." in number or "," in number:
 
